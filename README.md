@@ -1,1 +1,3 @@
 # Conceptual
+
+Informações na Wiki.
